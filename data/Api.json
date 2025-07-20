@@ -1,1 +1,28 @@
-
+{
+  "name": "Daddy Live HD",
+  "last_updated": "2025-07-20 12:00 PM (BDT)",
+  "updated_by": "Auto System",
+  "made_by": "Daddy Devs",
+  "owner": "Daddy Live Team",
+  "credit": {
+    "telegram": "https://t.me/your_channel_name",
+    "more_info": {
+      "project": "ForcedToPlay Playlist Engine",
+      "description": "Provides secure stream headers for clients such as IPTV players, media tools, and proxies.",
+      "usage": "For development, research, and private use only. Redistribution without permission is prohibited.",
+      "version": "v2.3.1",
+      "region": "Bangladesh",
+      "timezone": "Asia/Dhaka",
+      "last_checked": "Every 12 hours",
+      "license": "Restricted – Internal Use Only",
+      "maintainer": "ForcedToPlay Dev Team",
+      "contact_email": "support@forcedtoplay.xyz",
+      "website": "https://forcedtoplay.xyz"
+    }
+  },
+  "headers": {
+    "origin": "https://forcedtoplay.xyz",
+    "referrer": "https://forcedtoplay.xyz/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0"
+  }
+}
